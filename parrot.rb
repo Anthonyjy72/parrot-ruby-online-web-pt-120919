@@ -1,2 +1,2 @@
-def parrot
-  puts
+def parrot(Squawk!)
+  puts parrot
