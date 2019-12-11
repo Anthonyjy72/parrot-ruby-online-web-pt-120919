@@ -1,3 +1,3 @@
 def speak("Squawk!")
-  puts "The bird says"
+  print "The bird says"
 end
