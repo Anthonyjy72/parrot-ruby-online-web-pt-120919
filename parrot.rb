@@ -1,3 +1,3 @@
 def speak("Squawk!")
-  puts "The bird says #{speak}"
+  puts "The bird says "
 end
