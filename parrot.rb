@@ -1,3 +1,3 @@
 def #parrot(Squawk!)
-  puts "The bird says #{parrot}"
+  puts "The bird says #{}"
 end
