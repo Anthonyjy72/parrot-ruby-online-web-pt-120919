@@ -1,3 +1,3 @@
-def parrot(Squawk)
+def parrot(quawk)
   puts "The bird says #{}"
 end
