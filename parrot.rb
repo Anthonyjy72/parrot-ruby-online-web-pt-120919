@@ -1,3 +1,3 @@
-def parroto("Squawk!")
+def parrot
   puts "The parrot says #{parrot}"
 end
