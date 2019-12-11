@@ -1,4 +1,4 @@
-def parrot(Squawk!)
-  phrase = "something else"
-  puts "#{phrase}"
+def  parrot(talk)
+  phrase = "Squawk!"
+  puts "#{talk}"
 end
