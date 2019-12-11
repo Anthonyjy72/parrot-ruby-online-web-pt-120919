@@ -1,3 +1,3 @@
 def #parrot("Squawk!")
-  print "The bird says #{speak}"
+  print "The bird says #{"Squawk!"}"
 end
