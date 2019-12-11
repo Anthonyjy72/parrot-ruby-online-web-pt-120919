@@ -1,3 +1,3 @@
-def parrot(Squawk!)
+def parrot(squawk!)
   puts "Name"
 end
